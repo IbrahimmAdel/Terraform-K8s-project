@@ -24,14 +24,6 @@ This project sets up a VPC on AWS using Terraform, including the following compo
 - Terraform installed on your local machine.
 - AWS account with necessary permissions to create the resources.
 
-## Project Structure
-
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── terraform.tfvars
-├── README.md
-└── key_pairs
 
 
 ## Usage
